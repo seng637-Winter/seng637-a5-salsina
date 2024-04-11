@@ -65,6 +65,19 @@ Next, we present the plot for the failure rate from intervals 2 to 31. We exclud
 Regarding our prediction, we have established a failure intensity rate of 1.3 based on the plot above. As indicated, this rate is expected to be reached within a single interval.
 <img src="./media/11-prediction.png"  />
 
+## Advantages and Disadvantages of Reliability Growth Analysis
+- ## Advantages
+  - Identifies and corrects failures early, enhancing product reliability.
+  - Provides data-driven insights for resource allocation.
+  - It is suitable with complex systems or products.
+  - Predicts when reliability goals will be achieved to better plan production.
+
+- ## Disadvantages
+  - Consumes significant time and data, which can delay projects.
+  - Reliability of analysis is tied to the accuracy and completeness of data.
+  - Requires specialized knowledge and can be challenging to implement.
+  - Can lead to unrealistic expectations if not all variables are accounted for.
+
 
 # Assessment Using Reliability Demonstration Chart 
 
