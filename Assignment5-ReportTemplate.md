@@ -58,8 +58,13 @@ However, the C-SFRAT tool lacks the capability to perform range analysis using t
 After analyzing the plotted results, we observed improvements in reliability between intervals 3-18 and 27-31. Typically, a Laplace factor ranging from -2 to 2 suggests stable reliability, indicating that our data achieves stable reliability starting from the 19th interval onward. Additionally, negative Laplace factor values signify a decline in failure intensity, while positive values indicate an increase. Our data shows negative Laplace values between intervals 3-20 and 28-31. Consequently, a suitable range containing a sufficient number of data points for analysis would be from interval 1 to 20.
 
 #### Failure rate
+Next, we present the plot for the failure rate from intervals 2 to 31. We excluded the first interval because the results significantly differed from the subsequent intervals, which could skew the overall assessment of the failure rate.
+<img src="./media/10-failure.png"  />
 
 ### Prediction
+Regarding our prediction, we have established a failure intensity rate of 1.3 based on the plot above. As indicated, this rate is expected to be reached within a single interval.
+<img src="./media/11-prediction.png"  />
+
 
 # Assessment Using Reliability Demonstration Chart 
 
