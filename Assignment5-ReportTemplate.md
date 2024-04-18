@@ -6,11 +6,7 @@
 |-----------------|---|
 | Student Names:  |   |
 | Sina Salimian   |   |
-| Zahra Safari    |   |
-| Alireza Esmaili |   |
-| Sahar Hajjar Zadeh |   |
-| Mehrnaz Senobari |   |
-| Fatemeh Ghaffarpour |   |
+
 
 # Introduction
 This assignment is centered around the analysis of integration test data, specifically utilizing specialized tools aimed at assessing reliability. Our exploration will be conducted through two primary methods for evaluating failure data derived from these tests. Each method not only serves as a different approach to reliability assessment but also employs distinct tools designed for this purpose.
